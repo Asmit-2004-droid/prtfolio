@@ -12,6 +12,7 @@ function Navbar() {
         <li><a href="#about">About Me</a></li>
         <li><a href="#services">Services</a></li>
         <li><a href="#skills">Skills</a></li>
+        <li><a href="#Project">My Project</a></li>
         <li><a href="#contact">Contact</a></li>
       </ul>
     </nav>

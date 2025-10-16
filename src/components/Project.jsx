@@ -69,7 +69,8 @@ function Project() {
                 <p>
                     <span>Technologies Used:</span> HTML, CSS, JavaScript
                 </p>
-                <a href='todolist2342342.netlify.app'>View Project </a>
+                <a href='https://todolist2342342.netlify.app/'>View Project </a>
+               
             </div>
     </div >
     </div>
