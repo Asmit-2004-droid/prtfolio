@@ -1,0 +1,38 @@
+.project-section {
+  background: #fff;
+  padding: 80px 40px;
+}
+
+.project-section h1,h2 {
+  font-size: 2.5rem;
+  color: #000000;
+  margin-bottom: 40px;
+  border-left: 5px solid #f9b233;
+  padding-left: 10px;
+}
+
+.projectCard {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 30px;
+}
+
+.projectCard div {
+  flex: 1 1 250px;
+  background:#eeeaea;
+  padding: 30px;
+  border-radius: 10px;
+  text-align: center;
+  transition: 0.3s ease;
+}
+
+.projectCard div:hover {
+  background: #f9b233;
+  color: #fff;
+  transform:scale(1.05);
+}
+
+.projectCard div h2 {
+  font-size: 1.5rem;
+  margin-bottom: 10px;
+}

@@ -1,0 +1,41 @@
+.services-section {
+  background: #fff;
+  padding: 80px 40px;
+}
+
+.services-section h2 {
+  font-size: 2.5rem;
+  color: #000;
+  margin-bottom: 40px;
+  border-left: 5px solid #f9b233;
+  padding-left: 10px;
+}
+
+.service-cards {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 30px;
+}
+
+.card {
+  flex: 1 1 250px;
+  background: #f2f2f2;
+  padding: 30px;
+  border-radius: 10px;
+  text-align: center;
+  transition: 0.3s ease;
+}
+
+.card:hover {
+  background: #f9b233;
+  color: #fff;
+}
+
+.card h3 {
+  font-size: 1.5rem;
+  margin-bottom: 10px;
+}
+
+.card p {
+  color: #555;
+}
